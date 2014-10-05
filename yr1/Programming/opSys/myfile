@@ -1,0 +1,4 @@
+Clear
+Echo "starting shell script"
+ls -l
+

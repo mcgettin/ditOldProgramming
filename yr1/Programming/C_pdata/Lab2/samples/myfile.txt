@@ -1,0 +1,4 @@
+this is
+a Sample
+file DOT TEXT for testing.
+bye!

@@ -1,0 +1,14 @@
+ireland dublin 1500000
+italy rome 3000000
+france paris 6000000
+ireland galway 60000
+england london 8000000
+germany berlin 3000000
+italy venice 150000
+italy florence 500000
+spain madrid 3500000
+usa washington 1800000
+france marseille 600000
+england manchester 1200000
+ireland cork 200000
+england liverpool 1400000

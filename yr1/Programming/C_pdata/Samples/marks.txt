@@ -1,0 +1,6 @@
+mary 30
+john 67
+mark 23
+matthew 55
+phil 78
+paul 66

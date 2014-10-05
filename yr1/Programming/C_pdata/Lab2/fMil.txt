@@ -1,0 +1,9 @@
+dublin 1500000
+rome 3000000
+paris 6000000
+london 8000000
+berlin 3000000
+madrid 3500000
+washington 1800000
+manchester 1200000
+liverpool 1400000
