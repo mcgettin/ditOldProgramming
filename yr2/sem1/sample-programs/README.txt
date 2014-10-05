@@ -1,0 +1,9 @@
+README file
+
+This folder contains sample programs, most of which we have seen in class. I'd encourage you to read these and copy and modify them. Practice is essential to success or even understanding in programming.
+
+These are presented without comment. Open the files and read the code. It should be obvious what the programs do as they are generally small. Some are commented to a greater extent than others. Some are versions or duplicates of each other written at different times. If you don't understanding something in a program, search the net to find an explanation. There is an abundance of documentation, tutorials, and helpful community sites available. You should never be unable to find an explanation and worked examples for any topic.
+
+Mark Foley
+November 2013
+
