@@ -1,4 +1,4 @@
 ditOldProgramming
 =================
 
-stuff i did over the last 2years in DIT
+early programming work from DIT and personal side projects at the beginning of my degree.
